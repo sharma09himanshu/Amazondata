@@ -1,4 +1,4 @@
-Order ID,Order Date,Ship Date,Ship Days,Ship Mode,Customer ID,Customer Name,Customer Type,City,State,Country,Product Type,Product,Product Name,Sales,Quantity,Discount,Profit,Shipping Cost
+OrderID,OrderDate,ShipDate,ShipDays,ShipMode,CustomerID,CustomerName,CustomerType,City,State,Country,ProductType,Product,ProductName,Sales,Quantity,Discount,Profit,ShippingCost
 CA-2012-124891,7/31/2012,7/31/2012,0,Same Day,RH-19495,Rick Hansen,Consumer,New York City,New York,United States,Technology,Accessories,Plantronics CS510 - Over-the-Head monaural Wireless Headset System,2309.65,7,0,762.1845, 933.57 
 IN-2013-77878,2/5/2013,2/7/2013,2,Second Class,JR-16210,Justin Ritter,Corporate,Wollongong,New South Wales,Australia,Furniture,Chairs,"Novimex Executive Leather Armchair, Black",3709.395,9,0.1,-288.765, 923.63 
 IN-2013-71249,10/17/2013,10/18/2013,1,First Class,CR-12730,Craig Reiter,Consumer,Brisbane,Queensland,Australia,Technology,Phones,"Nokia Smart Phone, with Caller ID",5175.171,9,0.1,919.971, 915.49 
