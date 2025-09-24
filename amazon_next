@@ -1,0 +1,9 @@
+OrderID,OrderDate,ShipDate,ShipDays,ShipMode,CustomerID,CustomerName,CustomerType,City,State,Country,ProductType,Product,ProductName,Sales,Quantity,Discount,Profit,ShippingCost
+IN-2014-100112,3/15/2014,3/17/2014,2,Second Class,AN-17895,Anita Nair,Consumer,Bengaluru,Karnataka,India,Technology,Accessories,Logitech Wireless Mouse M235,1450.75,5,0.05,320.25,245.50
+IN-2014-100113,5/21/2014,5/23/2014,2,First Class,RS-16540,Ravi Sharma,Corporate,Mumbai,Maharashtra,India,Furniture,Chairs,"Nilkamal Plastic Chair, Brown",2589.60,12,0,689.75,310.40
+IN-2014-100114,7/10/2014,7/12/2014,2,Standard Class,SK-19870,Shreya Kapoor,Consumer,Delhi,Delhi,India,Technology,Phones,"Samsung Galaxy S4, Dual SIM",34999.00,3,0.1,4200.50,550.00
+IN-2014-100115,9/2/2014,9/2/2014,0,Same Day,PK-15221,Priya Khanna,Home Office,Hyderabad,Telangana,India,Technology,Accessories,"HP Ink Cartridge 678, Black",2450.00,10,0,540.00,150.00
+IN-2014-100116,10/5/2014,10/8/2014,3,Second Class,AR-19420,Arjun Reddy,Corporate,Chennai,Tamil Nadu,India,Furniture,Tables,"Godrej Office Desk, Wooden",12500.50,2,0.15,1850.25,720.00
+IN-2014-100117,11/19/2014,11/20/2014,1,First Class,KM-13455,Komal Mehta,Consumer,Pune,Maharashtra,India,Technology,Phones,"Micromax Canvas HD, Dual SIM",11999.00,4,0.1,2800.00,420.00
+IN-2014-100118,12/11/2014,12/12/2014,1,Same Day,VS-18765,Vivek Singh,Home Office,Jaipur,Rajasthan,India,Technology,Copiers,"Canon Pixma Wireless Printer, High-Speed",8450.00,2,0,1350.75,300.00
+IN-2014-100119,1/8/2015,1/11/2015,3,Second Class,NP-17485,Neha Patel,Consumer,Ahmedabad,Gujarat,India,Furniture,Chairs,"Durian Revolving Office Chair",7499.00,3,0.05,1125.50,280.00
